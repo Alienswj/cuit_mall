@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cuit_mall.iml" filepath="$PROJECT_DIR$/.idea/cuit_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuitmall-coupon/cuitmall-coupon.iml" filepath="$PROJECT_DIR$/cuitmall-coupon/cuitmall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuitmall-member/cuitmall-member.iml" filepath="$PROJECT_DIR$/cuitmall-member/cuitmall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuitmall-order/cuitmall-order.iml" filepath="$PROJECT_DIR$/cuitmall-order/cuitmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuitmall-product/cuitmall-product.iml" filepath="$PROJECT_DIR$/cuitmall-product/cuitmall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuitmall-ware/cuitmall-ware.iml" filepath="$PROJECT_DIR$/cuitmall-ware/cuitmall-ware.iml" />
+    </modules>
+  </component>
+</project>
